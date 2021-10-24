@@ -8,5 +8,5 @@ Chess-board is a simple chess board game where you can build 8*8 grid then add t
 
 
 # PULL REQUSET:
-[PR ]()
+[PR ](https://github.com/mohammadsilwadi/chess-board/pull/1)
 
